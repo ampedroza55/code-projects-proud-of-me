@@ -80,7 +80,7 @@ function drawnose() {
   
   // draw the right wrist (keypoint 10)
   fill(255, 100, 150); 
-  quad(nose.x, nose.y, 290, 25);
+  quad(nose.x, nose.y, 289, 25);
   // draw this ellipse where the nose is
   rect(nose.x, nose.y, 200, 5);
   
