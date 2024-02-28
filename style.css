@@ -18,7 +18,7 @@ canvas, video {
     object-fit: cover;
   }
   z-index: 1;
-
+}
 
 video {
   transform: scaleX(-1);
