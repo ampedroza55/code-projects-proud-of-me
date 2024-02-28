@@ -62,7 +62,7 @@ function draw() {
 
 function drawnose() {
   
-  console.log(poses);
+  //console.log(poses);
   
   // store the first pose in a variable called "pose"
   let pose = poses[0].pose;
