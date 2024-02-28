@@ -13,8 +13,8 @@ canvas, video {
   canvas {
     display: block;
     position: absolute;
-    width: 300% !important;
-    height: 300% !important;
+    width: 100% !important;
+    height: 100% !important;
     object-fit: cover;
   }
   z-index: 1;
